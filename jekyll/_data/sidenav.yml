@@ -146,8 +146,8 @@ en:
           link: 2.0/circleci-images/
         - name: Using Custom Images
           link: 2.0/custom-images/
-        - name: Using Private Images
-          link: 2.0/private-images/
+        - name: Using Authenticated Docker Pulls
+          link: 2.0/docker-authenticated-pulls/
     - name: ADVANCED CONFIG
       link: 2.0/adv-config/
       children:
@@ -532,9 +532,9 @@ ja:
         - name: Using Custom Images
           i18n_name: カスタムイメージを使う
           link: ja/2.0/custom-images/
-        - name: Using Private Images
+        - name: Using Authenticated Docker Pulls
           i18n_name: プライベートイメージを使う
-          link: ja/2.0/private-images/
+          link: ja/2.0/docker-authenticated-pulls/
     - name: ADVANCED CONFIG
       i18n_name: 高度な設定
       link: ja/2.0/adv-config/
